@@ -9,7 +9,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg" />
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero-light.svg" width="100%" alt="Yohaku — Network tools. Clear rules. Reliable releases." />
+    <img src="./assets/hero-light.svg" width="100%" alt="Yohaku — Exploring ideas, building useful things." />
   </picture>
 </div>
 
@@ -17,8 +17,8 @@
 
 <div align="center">
   <h3>你好，我是余白。 / Hi, I'm Yohaku.</h3>
-  <p>专注网络分流、规则设计、DNS 诊断与自动化配置。<br />
-  Building maintainable network configurations and tools for Loon &amp; Stash.</p>
+  <p>探索不同的技术方向，把想法做成项目，也分享自己的实践与成果。<br />
+  Exploring technology, turning ideas into projects, and sharing what I build.</p>
   <p>
     <a href="https://github.com/YohakuSama/loonkit">LoonKit</a>
     &nbsp; · &nbsp;
@@ -65,24 +65,23 @@
   </tr>
 </table>
 
-### What I work on / 关注方向
+### How I build / 我的探索与实践
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>01 / Routing</strong><br /><sub>按 AI、开发平台、流媒体和其他场景组织分流规则，控制规则优先级。</sub></td>
-    <td width="33%" valign="top"><strong>02 / Diagnostics</strong><br /><sub>检查 DNS、节点可用性、连接状态与实际出口，辅助排查网络问题。</sub></td>
-    <td width="33%" valign="top"><strong>03 / Reproducibility</strong><br /><sub>借助版本记录、固定规则快照与 CI，维护可审查的配置变更。</sub></td>
+    <td width="33%" valign="top"><strong>01 / Explore</strong><br /><sub>保持好奇，持续接触不同领域的技术与新想法。</sub></td>
+    <td width="33%" valign="top"><strong>02 / Build</strong><br /><sub>把想法做成实际项目，关注清晰的设计与使用体验。</sub></td>
+    <td width="33%" valign="top"><strong>03 / Improve</strong><br /><sub>通过文档、自动化和持续维护，让作品不断改进。</sub></td>
   </tr>
 </table>
 
-### Tools & workflow / 工具与工作流
+### Tools from these projects / 这些项目使用的技术
 
 <p>
   <img src="https://img.shields.io/badge/YAML-171717?style=flat-square&amp;logo=yaml&amp;logoColor=white" alt="YAML" />
   <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-171717?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub_Actions-171717?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Network_Rules-171717?style=flat-square&amp;logoColor=white" alt="Network rules" />
 </p>
 
 <p>
